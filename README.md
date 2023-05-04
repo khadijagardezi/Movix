@@ -1,5 +1,5 @@
 # Movix
-🍿 Movix is a web app designed for movie and TV show enthusiasts. The app allows users to view trending movies and TV shows and provides detailed information about them, including trailers. 
+Movix is a web app designed for movie and TV show enthusiasts. The app allows users to view trending movies and TV shows and provides detailed information about them, including trailers. 🍿 
 
 ## Home
 
@@ -37,3 +37,5 @@
 
 # 🍿
 Movix is a web-based app that has been developed using React, which is an open-source JavaScript library for building user interfaces. The app also integrates The Movie Database (TMDB) API, which allows users to access information about movies, TV shows, actors, and other related content. With Movix, users can browse and search for movies and TV shows, see ratings and watch trailers. The app is designed to be user-friendly and offers a seamless experience for movie enthusiasts like me!
+
+REACT JS | SASS | VITE.JS | VERCEL 
